@@ -2,6 +2,8 @@
 
 Download Code and Run on Live-Server
 
+Border Animation Effect 
+
 Output Image:
 
 
