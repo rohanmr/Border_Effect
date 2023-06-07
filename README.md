@@ -1,8 +1,10 @@
 # Border_Effect
 
-Download Code and Run on Live-Server
+Download Code and Open On VS code. 
 
-Border Animation Effect 
+Run on Live-Server.
+
+Border Animation Effect: 
 
 Output Image:
 
