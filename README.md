@@ -1,6 +1,8 @@
 # Border Effect
 
-Download Code and Open On VS code. 
+Download Code and Open On VS code.
+
+Install VS Code Extension Live Server.
 
 Run on Live-Server.
 
